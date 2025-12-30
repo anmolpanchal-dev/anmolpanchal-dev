@@ -7,15 +7,15 @@ because its README.md appears on your GitHub profile.
 <h3 align="center">Frontend & JavaScript Learner | Computer Science Student</h3>
 
 <p align="center">
-  🚀 Building real-world projects • Improving logic daily • Growing step-by-step
+  🚀 Building real-world projects • Strengthening logic • Learning every day
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CS student focused on frontend development  
+- 🎓 Computer Science student passionate about frontend development  
 - 💻 Working with **HTML, CSS & JavaScript**  
-- 🛠️ Learning clean, reusable code practices  
+- 🛠️ Focused on clean UI & solid JavaScript logic  
 
 ---
 
@@ -26,13 +26,18 @@ because its README.md appears on your GitHub profile.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolpanchal-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolpanchal-dev&theme=tokyonight" height="160"/>
-</p>
+### 📌 What I’m Focusing On
+- Writing clean & readable code  
+- Improving form validation & JS logic  
+- Building beginner-friendly real projects  
+
+---
+
+### 🌱 Currently Learning
+- Advanced JavaScript concepts  
+- Better UI/UX practices  
 
 ---
 
 ### ⚡ Fun Fact
-Consistency beats motivation every time 🚀
+Small daily improvements lead to big results 🚀
