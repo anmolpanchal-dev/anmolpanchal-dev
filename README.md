@@ -1,4 +1,6 @@
-###  Hey there! I'm Anmol Panchal  👋
+<div align="center">
+
+### < Hey there! I'm Anmol Panchal /> 👋
 
 **Frontend Developer in Progress · Data Science Explorer · B.Tech CSE '26**
 
