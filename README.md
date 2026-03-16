@@ -41,3 +41,25 @@ because its README.md appears on your GitHub profile.
 
 ### ⚡ Fun Fact
 Small daily improvements lead to big results 🚀
+
+
+
+## 🤝 Let's Connect!
+ 
+<div align="center">
+ 
+I'm always open to collaborating on projects, learning together, or just a friendly chat!
+ 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge)](https://anmolpanchal-dev.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolpanchal-dev/)
+[![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchalji9705@gmail.com)
+ 
+---
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=anmolpanchal-dev&color=FF6B6B&style=flat-square&label=Profile+Views)
+ 
+*⭐ If you like my work, consider starring my repos — it keeps me motivated!*
+ 
+</div>
+ 
+
