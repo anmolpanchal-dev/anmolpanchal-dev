@@ -4,7 +4,7 @@ because its README.md appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi 👋 I'm Anmol Panchal</h1>
-<h3 align="center">Frontend & JavaScript Learner | Computer Science Student</h3>
+<h3 align="center">Web Developer | Understanding DSA | Computer Science Student</h3>
 
 <p align="center">
   🚀 Building real-world projects • Strengthening logic • Learning every day
